@@ -1,10 +1,10 @@
 # Easy Project Setup for Geodjango
 #### GEODJANGO BOILERPLATE
 A boilerplate GeoDjango project for quickly getting started
-Project includes
+Project includes :
 1) Command for renaming project
 2) Bash script of gdal and psycopg2 installation 
-3) Postgresh database enabled django project
+3) Postgres database enabled django project
 
 ### Install Python3, pip and virtualenv first
 ##### Skip this, step if you already have one

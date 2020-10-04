@@ -1,10 +1,10 @@
-# Easy Project Setup for Geodjango
-#### GEODJANGO BOILERPLATE
-A boilerplate GeoDjango project for quickly getting started
-Project includes :
+# GeoDjango Boilerplate for Easy Project Setup
+#### For Quickly Getting Started
+This project includes :
 1) Command for renaming project
 2) Bash script of gdal and psycopg2 installation 
 3) Postgres database enabled django project
+4) Location as sample model and leaflet configuration for django admin
 
 ### Install Python3, pip and virtualenv first
 ##### Skip this, step if you already have one
@@ -45,6 +45,8 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
     python manage.py makemigrations
     python manage.py migrate
     python manage.py runserver
-###### For the windows user , Download and Install Anaconda Navigator , Go to environments tab , Create your environment under dropdown menu choose not installed and search for library gdal,psycopg2 and django and hit apply . Clone the repo ! You can use anaconda in ubuntu as well if you like ! 
+### For Anaconda User
+    conda env create -f environment.yml
+##### Now follow from line 40
 
 ## HURRAY !! KEEP LOVING HAI GUYS 😛    

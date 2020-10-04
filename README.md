@@ -45,5 +45,5 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
     python manage.py makemigrations
     python manage.py migrate
     python manage.py runserver
-##### For the windows user , Download and Install Anaconda Navigator , Go to environments tab , Create your environment under dropdown menu choose not installed and search for library gdal,psycopg2 and django and hit apply
+
 ## HURRAY !! KEEP LOVING HAI GUYS 😛    

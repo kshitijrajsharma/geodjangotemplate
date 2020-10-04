@@ -1,20 +1,20 @@
 # Easy Project Setup for Geodjango
 ### Install Python3, pip and virtualenv first
-#### Skip this, step if you already have one
+##### Skip this, step if you already have one
 
     sudo apt-get install python3
     sudo apt-get install -y python3-pip
     sudo apt install python3-virtualenv
-#### Create your virtual env
+##### Create your virtual env
     virtualenv myenv
     source ./myenv/bin/activate
 ### Clone this repo
     git clone https://github.com/itskshitiz321/geodjangotemplate.git
-#### Navigate to this repo 
+##### Navigate to this repo 
     chmod +x <library.sh>
     ./library.sh
     ogrinfo --version
-#### Change the GDAL verision in requirements.txt if your installed version is different from default one 
+##### Change the GDAL verision in requirements.txt if your installed version is different from default one 
     pip install -r requirements.txt
 
 ### Download Postgres interactive installer
@@ -28,7 +28,7 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
     sudo ./postgresql-10.14-1-linux-x64.run
 
-### Install postgis extension as well from stack builder
+#### Install postgis extension as well from stack builder
 
 ### Rename your project with following command
     python manage.py rename <your_current_projectname> <new_project_name> 

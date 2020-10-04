@@ -1,4 +1,5 @@
 # Easy Project Setup for Geodjango
+#### GEODJANGO BOILERPLATE
 ### Install Python3, pip and virtualenv first
 ##### Skip this, step if you already have one
 

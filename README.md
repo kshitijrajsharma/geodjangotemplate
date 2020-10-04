@@ -1,28 +1,16 @@
 # geodjangotemplate
-### Install Python first
-
+### Install Python3, pip and virtualenv first
+#### Skip this, step if you already have one
 
     sudo apt-get install python3
-
-
-### Install Pip
-
-
     sudo apt-get install -y python3-pip
-
-### Install virtualenv
-
-
-
     sudo apt install python3-virtualenv
 
-
 ### Create your virtual env
-
-
     virtualenv myenv
     source ./myenv/bin/activate
-### Clone this repo 
+### Clone this repo
+    git clone https://github.com/itskshitiz321/geodjangotemplate.git
 #### Navigate to this repo 
     chmod +x <library.sh>
     ./library.sh
@@ -45,7 +33,7 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
 
 
-#### Now change your username , password and db name with your postgres database 
+#### Now change your username , password and db name in settings.py accordingly to your database
     python manage.py makemigrations
     python manage.py migrate
     python manage.py runserver

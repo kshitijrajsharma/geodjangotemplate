@@ -1,4 +1,4 @@
-# geodjangotemplate
+# Easy Project Setup for Geodjango
 ### Install Python3, pip and virtualenv first
 #### Skip this, step if you already have one
 
@@ -31,7 +31,9 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
 ### Install postgis extension as well from stack builder
 
-
+### Rename your project with following command
+    python manage.py rename <your_current_projectname> <new_project_name> 
+    eg:python manage.py rename djangoproject newproject
 
 #### Now change your username , password and db name in settings.py accordingly to your database
     python manage.py makemigrations

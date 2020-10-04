@@ -78,4 +78,6 @@ dependencies:
   - pip:
     - django-leaflet==0.27.1
     - gdal==3.0.2
+    - djangorestframework
+    - djangorestframework-gis
 prefix: D:\Programs\Anaconda\envs\geodjango

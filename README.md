@@ -1,7 +1,6 @@
 # GeoDjango Boilerplate for Easy Project Setup
-
-A GeoDjango project for quickly getting started
-Project includes :
+#### For Quickly Getting Started
+This project includes :
 1) Command for renaming project
 2) Bash script of gdal and psycopg2 installation 
 3) Postgres database enabled django project

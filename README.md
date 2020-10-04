@@ -38,3 +38,4 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
     python manage.py makemigrations
     python manage.py migrate
     python manage.py runserver
+## HURRAY !! KEEP LOVING HAI GUYS 😛    

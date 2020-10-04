@@ -22,7 +22,7 @@ This project includes :
     chmod +x library.sh
     ./library.sh
     ogrinfo --version
-##### Change the GDAL verision in requirements.txt if your installed version is different from default one 
+##### Change the GDAL verision in requirements.txt if your installed version is different from default one (gdal version can be checked from previous command ogrinfo--version
     pip install -r requirements.txt
 
 ### Download Postgres interactive installer

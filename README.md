@@ -1,6 +1,6 @@
-# GEODJANGO BOILERPLATE for Easy Project Setup
-#### GEODJANGO BOILERPLATE
-A boilerplate GeoDjango project for quickly getting started
+# GeoDjango Boilerplate for Easy Project Setup
+
+A GeoDjango project for quickly getting started
 Project includes :
 1) Command for renaming project
 2) Bash script of gdal and psycopg2 installation 

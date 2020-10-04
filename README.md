@@ -5,8 +5,7 @@
     sudo apt-get install python3
     sudo apt-get install -y python3-pip
     sudo apt install python3-virtualenv
-
-### Create your virtual env
+#### Create your virtual env
     virtualenv myenv
     source ./myenv/bin/activate
 ### Clone this repo

@@ -47,6 +47,6 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
     python manage.py runserver
 ### For Anaconda User
     conda env create -f environment.yml
-##### Now follow from line 40
+##### Now follow from renaming the project
 
 ## HURRAY !! KEEP LOVING HAI GUYS 😛    

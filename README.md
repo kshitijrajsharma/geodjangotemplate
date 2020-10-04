@@ -1,4 +1,4 @@
-# Easy Project Setup for Geodjango
+# GEODJANGO BOILERPLATE for Easy Project Setup
 #### GEODJANGO BOILERPLATE
 A boilerplate GeoDjango project for quickly getting started
 Project includes :

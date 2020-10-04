@@ -11,7 +11,7 @@
 ### Clone this repo
     git clone https://github.com/itskshitiz321/geodjangotemplate.git
 ##### Navigate to this repo 
-    chmod +x <library.sh>
+    chmod +x library.sh
     ./library.sh
     ogrinfo --version
 ##### Change the GDAL verision in requirements.txt if your installed version is different from default one 

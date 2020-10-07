@@ -5,6 +5,7 @@ This project includes :
 2) Bash script of gdal and psycopg2 installation 
 3) Postgres database enabled django project
 4) Location as sample model and leaflet configuration for django admin
+5) Django-restframework-GIS with sample model and Geojson API view
 
 ### Install Python3, pip and virtualenv first
 ##### Skip this, step if you already have one
@@ -21,7 +22,7 @@ This project includes :
     chmod +x library.sh
     ./library.sh
     ogrinfo --version
-##### Change the GDAL verision in requirements.txt if your installed version is different from default one 
+##### Change the GDAL verision in requirements.txt if your installed version is different from default one (gdal version can be checked from previous command ogrinfo--version
     pip install -r requirements.txt
 
 ### Download Postgres interactive installer

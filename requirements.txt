@@ -4,3 +4,4 @@ psycopg2
 djangorestframework
 djangorestframework-gis
 django-leaflet
+django-rest-swagger

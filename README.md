@@ -33,7 +33,7 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
 
 
-### Now change the postgresql version that you have downloaded and run this command
+##### Now change the postgresql version that you have downloaded and run this command
 
     sudo ./postgresql-10.14-1-linux-x64.run
 

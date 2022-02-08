@@ -52,4 +52,3 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
     conda env create -f environment.yml
 ##### Now follow from renaming the project
 
-## HURRAY !! KEEP LOVING HAI GUYS 😛    

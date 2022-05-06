@@ -25,6 +25,7 @@ This project includes :
     ogrinfo --version
 ##### Change the GDAL verision in requirements.txt if your installed version is different from default one (gdal version can be checked from previous command ogrinfo--version
     pip install -r requirements.txt
+    pip install gdal==(version you get from ogrinfo--version ) 
 
 ### Download Postgres interactive installer
 

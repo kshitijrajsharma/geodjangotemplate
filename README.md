@@ -19,10 +19,11 @@ This project includes :
     source ./myenv/bin/activate
 ### Clone this repo
     git clone https://github.com/itskshitiz321/geodjangotemplate.git
-##### Navigate to this repo 
+##### Navigate to this repo ( For linux Users )
     chmod +x library.sh
     ./library.sh
     ogrinfo --version
+#### For windows and Mac Users , Install gdal and psycopg2 library on your machine ( Anaconda, https://www.anaconda.com/products/distribution is the easiest method ) 
 ##### Change the GDAL verision in requirements.txt if your installed version is different from default one (gdal version can be checked from previous command ogrinfo--version
     pip install -r requirements.txt
     pip install gdal==(version you get from ogrinfo--version ) 

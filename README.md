@@ -6,6 +6,7 @@ This project includes :
 3) Postgres database enabled django project
 4) Location as sample model and leaflet configuration for django admin
 5) Django-restframework-GIS with sample model and Geojson API view
+6) Django Rest Swagger
 
 ### Install Python3, pip and virtualenv first
 ##### Skip this, step if you already have one

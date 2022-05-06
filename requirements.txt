@@ -1,5 +1,5 @@
 django
-GDAL==3.0.4
+# GDAL==3.0.4 # uncomment this or install with your specific version
 psycopg2
 djangorestframework
 djangorestframework-gis
